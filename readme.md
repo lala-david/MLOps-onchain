@@ -1,4 +1,4 @@
 ## MLOps-based Onchain clustering
 
--[] KubeFlow, Etherscan, PostgreSQL 
+- [ ] KubeFlow, Etherscan, PostgreSQL 
 
